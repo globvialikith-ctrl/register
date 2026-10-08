@@ -1,0 +1,11 @@
+{
+  "owner": {
+    "username": "globvialikith-ctrl",
+    "email": "globvialikith@gmail.com"
+  },
+  "description": "My Portfolio Website",
+  "records": {
+    "TXT": "zoho-verification=zb43553065.zmverify.zoho.in",
+    "MX": ["mx.zoho.in.", "mx2.zoho.in.", "mx3.zoho.in."]
+  }
+}
